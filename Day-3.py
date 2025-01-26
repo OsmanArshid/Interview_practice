@@ -48,6 +48,11 @@ class Solution:
         # print (fir_pointer)
         return arr
 
+
+        # Apparently, there's an inbuilt method to reverse an array and it is also super 
+        # efficient with O(n) time complexity and O(1) space complexity
+        arr.reverse()
+
 #{ 
  # Driver Code Starts
 import sys
